@@ -38,3 +38,8 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
+        env:
+          GIT_AUTHOR_NAME: "Programming-Sai"
+          GIT_AUTHOR_EMAIL: "saiahprog6@gmail.com"
+          GIT_COMMITTER_NAME: "Programming-Sai"
+          GIT_COMMITTER_EMAIL: "saiahprog6@gmail.com"
