@@ -7,6 +7,8 @@
 </picture>
 </div>
 
+<br>
+<br>
 
 <p align='center'>
     <img src="p-logo.png" alt="My Logo" style="vertical-align: middle; width: 100px; border-radius:50%;"> 
@@ -16,8 +18,8 @@
 
 <div align="center">
   
-  ![GitHub Followers](https://img.shields.io/github/followers/Programming-Sai?label=Follow&style=social)
-  ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-brightgreen?style=social)
+  ![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%94-blue?style=social)
+  ![GitHub Followers](https://img.shields.io/github/followers/Programming-Sai?label=Followers&style=social)
   ![Stars](https://img.shields.io/github/stars/Programming-Sai?label=Stars&style=social)
 </div>
 
