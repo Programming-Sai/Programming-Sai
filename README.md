@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="img/p-logo.png" alt="My Logo" style="vertical-align: middle; width: 100px; border-radius:50%;"> 
+    <img src="p-logo.png" alt="My Logo" style="vertical-align: middle; width: 100px; border-radius:50%;"> 
 </p>
 <h3 align='center'>Programming-Sai</h3>
 <p align='center'>Tech-driven, always learning, and focused on building efficient solutions.</p>
@@ -49,14 +49,14 @@ I thrive on solving complex problems and would like to contributie to open-sourc
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <picture>
-  <source srcset="img/github-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="img/github-light.svg" media="(prefers-color-scheme: light)" />
-  <img src="img/github-light.svg" alt="Terminal" width="26px" />
+  <source srcset="github-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="github-light.svg" media="(prefers-color-scheme: light)" />
+  <img src="github-light.svg" alt="Terminal" width="26px" />
 </picture>
 <picture>
-  <source srcset="img/terminal-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="img/terminal-light.svg" media="(prefers-color-scheme: light)" />
-  <img src="img/terminal-light.svg" alt="Terminal" width="26px" />
+  <source srcset="terminal-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="terminal-light.svg" media="(prefers-color-scheme: light)" />
+  <img src="terminal-light.svg" alt="Terminal" width="26px" />
 </picture>
 <br />
 <br />
@@ -67,9 +67,9 @@ I thrive on solving complex problems and would like to contributie to open-sourc
 
 |                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/Programming-Sai/PDF-Summarizer" target="_blank"><img src='./img/ospdf.png' alt='PDF-Summariser' width='500px'  /> </a>                                                                                                                                                       | <a href="https://github.com/Programming-Sai/Conviva-v-1.0" target="_blank"><img src='./img/conviva-v.1.png' alt='PDF-Summariser' width='500px'     /></a>                                                                                                                                                                               |
-| <a href="https://programming-sai.github.io/Blog/" target="_blank"><picture><source srcset="img/blog-dark.png" media="(prefers-color-scheme: dark)" /><source srcset="img/blog-light.png" media="(prefers-color-scheme: light)" /><img src="img/blog-light.png" alt="Blog" width="500px" /></picture></a> | <a href="https://programming-sai.github.io/Fertilizer-Recommendation-System/" target="_blank"><img src='./img/fertilizer.png' alt='Fertilizer Recommendation System' width='500px'     /> </a>                                                                                                                                                                                                                                            |
-| <a href="https://github.com/Programming-Sai/File-Explorer         " target="_blank"><img src='./img/not-found.jpg' alt='File Explorer' width='450px' height='300px'  />                                                                                          | <a href="https://github.com/Programming-Sai/SakaiAlerts" target="_blank"><picture><source srcset="img/sakai-alerts-dark.png" media="(prefers-color-scheme: dark)" /><source srcset="img/sakai-alerts-light.png" media="(prefers-color-scheme: light)" /><img src="img/sakai-alerts-light.png" alt="Sakai Alerts" width="500px" /></picture></a> |
+| <a href="https://github.com/Programming-Sai/PDF-Summarizer" target="_blank"><img src='./ospdf.png' alt='PDF-Summariser' width='500px'  /> </a>                                                                                                                                                       | <a href="https://github.com/Programming-Sai/Conviva-v-1.0" target="_blank"><img src='./conviva-v.1.png' alt='PDF-Summariser' width='500px'     /></a>                                                                                                                                                                               |
+| <a href="https://programming-sai.github.io/Blog/" target="_blank"><picture><source srcset="blog-dark.png" media="(prefers-color-scheme: dark)" /><source srcset="blog-light.png" media="(prefers-color-scheme: light)" /><img src="blog-light.png" alt="Blog" width="500px" /></picture></a> | <a href="https://programming-sai.github.io/Fertilizer-Recommendation-System/" target="_blank"><img src='./fertilizer.png' alt='Fertilizer Recommendation System' width='500px'     /> </a>                                                                                                                                                                                                                                            |
+| <a href="https://github.com/Programming-Sai/File-Explorer         " target="_blank"><img src='./not-found.jpg' alt='File Explorer' width='450px' height='300px'  />                                                                                          | <a href="https://github.com/Programming-Sai/SakaiAlerts" target="_blank"><picture><source srcset="sakai-alerts-dark.png" media="(prefers-color-scheme: dark)" /><source srcset="sakai-alerts-light.png" media="(prefers-color-scheme: light)" /><img src="sakai-alerts-light.png" alt="Sakai Alerts" width="500px" /></picture></a> |
 
 ---
 
