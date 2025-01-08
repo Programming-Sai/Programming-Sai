@@ -1,5 +1,11 @@
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+<div align='center'>
 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Programming-Sai/Programming-Sai/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/Programming-Sai/Programming-Sai/output/github-snake.svg" media="(prefers-color-scheme: light)" />
+  <img src="https://raw.githubusercontent.com/Programming-Sai/Programming-Sai/output/github-snake.svg" alt="Snake" />
+</picture>
+</div>
 
 
 <p align='center'>
