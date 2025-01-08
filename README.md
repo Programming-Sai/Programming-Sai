@@ -1,3 +1,7 @@
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
+
+
 <p align='center'>
     <img src="p-logo.png" alt="My Logo" style="vertical-align: middle; width: 100px; border-radius:50%;"> 
 </p>
