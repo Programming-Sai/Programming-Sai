@@ -41,7 +41,8 @@ I thrive on solving complex problems and would like to contributie to open-sourc
 
 |                                                                                                                                          |                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=Programming-Sai&show_icons=true&theme=radical" width="500" height="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-Sai&layout=compact&theme=radical" width="500" height="200" /> |
+| <picture><source srcset="https://github-readme-stats.vercel.app/api?username=Programming-Sai&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-stats.vercel.app/api?username=Programming-Sai&show_icons=true&theme=default" media="(prefers-color-scheme: light)" /><img src="https://github-readme-stats.vercel.app/api?username=Programming-Sai&show_icons=true&theme=default" alt="Stats" width="500" height="200"  /></picture>|  <picture><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-Sai&layout=compact&theme=radical" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-Sai&layout=compact&theme=default" media="(prefers-color-scheme: light)" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-Sai&layout=compact&theme=default" width="500" height="200" /></picture>
+|
 
 ---
 
