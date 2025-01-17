@@ -60,6 +60,8 @@ I thrive on solving complex problems and would like to contributie to open-sourc
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+
 <picture>
   <source srcset="github-dark.svg" media="(prefers-color-scheme: dark)" />
   <source srcset="github-light.svg" media="(prefers-color-scheme: light)" />
