@@ -18,9 +18,10 @@
 
 <div align="center">
   
-  ![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%94-blue?style=social)
-  ![GitHub Followers](https://img.shields.io/github/followers/Programming-Sai?label=Followers&style=social)
-  ![Stars](https://img.shields.io/github/stars/Programming-Sai?label=Stars&style=social)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Programming-Sai&logoColor=red&color=blue)
+  ![Open Source](https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%94-blue?style=default)
+  ![GitHub Followers](https://img.shields.io/github/followers/Programming-Sai?label=Followers&style=default)
+  ![Stars](https://img.shields.io/github/stars/Programming-Sai?label=Stars&style=default)
 </div>
 
 "I am a dedicated Computer Science student with a strong foundation in web and mobile development. My expertise includes working with modern frameworks like React Native, Next.js, and backend technologies such as Node.js and Python. I have hands-on experience building responsive and functional applications, integrating APIs, and implementing authentication systems with OAuth.
