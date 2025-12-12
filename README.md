@@ -32,20 +32,22 @@ I thrive on solving complex problems and would like to contributie to open-sourc
 
 ## 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/isaiah-nii-larte-mensah-lartey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/ProgrammingSai" target="_blank"><img src="https://img.shields.io/badge/X%20-000000.svg?style=flat&logo=x&logoColor=white"/></a>
-<a href="mailto:saiahprog6@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white"/></a>
+<p align="center" gap="10">
+  <a href="https://www.linkedin.com/in/isaiah-nii-larte-mensah-lartey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/ProgrammingSai" target="_blank"><img src="https://img.shields.io/badge/X%20-000000.svg?style=flat&logo=x&logoColor=white"/></a>
+  <a href="mailto:saiahprog6@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <picture><source srcset="https://github-readme-stats.vercel.app/api?username=Programming-Sai&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-stats.vercel.app/api?username=Programming-Sai&show_icons=true&theme=default" media="(prefers-color-scheme: light)" /><img src="https://github-readme-stats.vercel.app/api?username=Programming-Sai&show_icons=true&theme=default" alt="Stats" width="500" height="200"  /></picture> | <picture><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-Sai&layout=compact&theme=radical" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-Sai&layout=compact&theme=default" media="(prefers-color-scheme: light)" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-Sai&layout=compact&theme=default" width="500" height="200" /></picture> |
 
 ---
-
+-->
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
