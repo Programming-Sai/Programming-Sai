@@ -24,9 +24,7 @@
   ![Stars](https://img.shields.io/github/stars/Programming-Sai?label=Stars&style=default)
 </div>
 
-"I am a dedicated Computer Science student with a strong foundation in web and mobile development. My expertise includes working with modern frameworks like React Native, Next.js, and backend technologies such as Node.js and Python. I have hands-on experience building responsive and functional applications, integrating APIs, and implementing authentication systems with OAuth.
-
-I thrive on solving complex problems and would like to contributie to open-source projects. I'm eager to collaborate on innovative and impactful projects that challenge me to grow as a developer."
+"Computer Science student exploring software engineering, systems, and practical problem-solving. I build CLI tools, backend services, and algorithmic solutions using **Java, Python, and JavaScript**. I learn by iterating, experimenting, and refining my projects."
 
 ---
 
@@ -85,6 +83,9 @@ I thrive on solving complex problems and would like to contributie to open-sourc
 <br />
 <br />
 
+<!--
+
+
 ---
 
 ### Projects Preview
@@ -94,3 +95,4 @@ I thrive on solving complex problems and would like to contributie to open-sourc
 | <a href="https://github.com/Programming-Sai/SeekBeat" target="_blank"><img src="./seekbeat-backend.png" alt="Seekbeat (Backend)" width="500px" /></a>                                                                                                                                                       | <a href="https://seekbeat.expo.app/" target="_blank"><picture><source srcset="seekbeat-frontend-dark.png" media="(prefers-color-scheme: dark)" /><source srcset="seekbeat-frontend-light.png" media="(prefers-color-scheme: light)" /><img src="seekbeat-frontend-light.png" alt="Seekbeat (UI)" width="500px" /></picture></a>                                                                                                                                                                                                  |
 | <a href="https://sakaai-simulator.vercel.app/" target="_blank"><picture><source srcset="sakaai-dark.png" media="(prefers-color-scheme: dark)" /><source srcset="sakaai-light.png" media="(prefers-color-scheme: light)" /><img src="sakaai-light.png" alt="Sakaai Simulator" width="500px" /></picture></a> | <a href="https://github.com/Programming-Sai/SnapMock" target="_blank"><picture><source srcset="https://raw.githubusercontent.com/Programming-Sai/SnapMock/refs/heads/main/SnapMock.png" media="(prefers-color-scheme: dark)" /><source srcset="https://raw.githubusercontent.com/Programming-Sai/SnapMock/refs/heads/main/SnapMock.png" media="(prefers-color-scheme: light)" /><img src="https://raw.githubusercontent.com/Programming-Sai/SnapMock/refs/heads/main/SnapMock.png" alt="SnapMock" width="500px" /></picture></a> |
 | <a href="https://github.com/Programming-Sai/PDF-Summarizer" target="_blank"><img src="./ospdf.png" alt="PDF-Summariser" width="500px" /></a>                                                                                                                                                                | <a href="https://programming-sai.github.io/Blog/" target="_blank"><picture><source srcset="blog-dark.png" media="(prefers-color-scheme: dark)" /><source srcset="blog-light.png" media="(prefers-color-scheme: light)" /><img src="blog-light.png" alt="Blog" width="500px" /></picture></a>                                                                                                                                                                                                                                     |
+-->
